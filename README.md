@@ -5,7 +5,7 @@ Encadrant : M. Mourad GUEROUI (📧 mourad.gueroui@uvsq.fr)
 
 Une application web interactive permettant de **simuler un échange de paquets TCP entre un client et un serveur**, conformément au scénario pédagogique défini dans le sujet TER.
 
-🔗 Accédez au site du projet ici : <Lien vers le site>
+🔗 Accédez au site du projet ici : https://simulation-tcp.vercel.app/
 
 ---
 
@@ -59,13 +59,13 @@ Ce projet simule étape par étape le fonctionnement du **protocole TCP**, confo
 ### Étape 1 : Cloner le dépôt Git
 
 ```bash
-git clone https://github.com/uvsq22407715/simulationTCP.git
+git clone https://github.com/uvsq22407715/simulation-TCP
 ```
 
 ### Étape 2 : Se déplacer dans le dossier du projet
 
 ```bash
-cd simulationTCP
+cd simulation-TCP
 ```
 
 ### Étape 3 : Installer les dépendances nécessaires
